@@ -12,7 +12,7 @@
   background: #00000088;
   border-radius: 4px;
   box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
-  height: 2375px;
+  height: 2480px;
   width: 100%;
 }
 .ID-image {
@@ -73,4 +73,5 @@
 .about5 h5 {
     color: white;
     font-weight: 300;
+
 }
