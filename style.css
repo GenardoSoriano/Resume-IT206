@@ -1,0 +1,54 @@
+
+.container {
+  align-items: center;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: 6  00px;
+  width: 100%;
+}
+.resume {
+  background: #ffffffa8;
+  border-radius: 4px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, .3);
+  height: 2145px;
+  width: 100%;
+}
+.ID-image {
+    background-color: rgb(81, 72, 255);
+    border-bottom: 1px solid rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 40px;
+}
+.picture {
+    width: 150px;
+    height: 150px;
+}
+.picture2 {
+    padding-top: 10px;
+    padding-left: 30px;
+    width: 550px;
+    height: 400px;
+}
+.ID-image h1 {
+    color: white;
+}
+.about {
+    padding-top: 20px;
+    padding-left: 30px;
+    color:black;
+}
+.me {
+    padding-top: 10px;
+    padding-left: 30px;
+    color: black;
+}
+.me2 {
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+    color: black;
+    border-bottom: 1px solid black;
+}
